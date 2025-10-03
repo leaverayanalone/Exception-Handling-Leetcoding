@@ -2,64 +2,62 @@ This repository contains 15 programming assignments focused on Exception Handlin
 
 📌 Overview
 
-Covers key concepts of exception handling in programming.
+    1. Covers key concepts of exception handling in programming.
 
-Includes practical assignments inspired by LeetCode-style problems.
+    2. Includes practical assignments inspired by LeetCode-style problems.
 
-Demonstrates usage of try, catch, finally, throw, and throws (depending on language).
+    3. Demonstrates usage of try, catch, finally, throw, and throws (depending on language).
 
-Improves debugging, error recovery, and safe program termination techniques.
+    4. Improves debugging, error recovery, and safe program termination techniques.
 
 📂 Contents
 
 Each assignment file demonstrates specific aspects of exception handling:
 
-Basic try-catch usage
+    1. Basic try-catch usage
 
-Multiple catch blocks
+    2. Multiple catch blocks
 
-Nested exception handling
+    3. Nested exception handling
 
-Finally block execution
+    4. Finally block execution
 
-Custom exception classes
+    5. Custom exception classes
 
-Throwing exceptions manually
+    6. Throwing exceptions manually
 
-Checked vs unchecked exceptions
+    7. Checked vs unchecked exceptions
 
-Input validation with exceptions
+    8. Input validation with exceptions
 
-File handling with exceptions
+    9. File handling with exceptions
 
-Arithmetic exceptions
+    10. Arithmetic exceptions
 
-Null reference handling
+    11. Null reference handling
 
-Array index out of bounds
+    12. Array index out of bounds
 
-Resource management with exceptions
+    13. Resource management with exceptions
 
-Real-world case studies (e.g., banking system, login system)
+    14. Real-world case studies (e.g., banking system, login system)
 
-Combined practice assignment
+    15. Combined practice assignment
 
 🚀 How to Use
 
-Clone this repository:
+    1. Clone this repository:
 
-git clone https://github.com/your-username/Exception-Handling-Leetcoding.git
+        git clone https://github.com/your-username/Exception-Handling-Leetcoding.git
 
 
-Navigate to the project folder.
+    2. Navigate to the project folder.
 
-Open assignments in your preferred IDE or run them via the command line.
+    3. Open assignments in your preferred IDE or run them via the command line.
 
 🛠 Requirements
 
-Programming Language: Java (or specify if you used Python/C++/C#)
-
-JDK 8+ (if Java)
+1. Programming Language: Python 3.11
 
 IDE (IntelliJ IDEA, Eclipse, VS Code, etc.)
 
@@ -67,16 +65,16 @@ IDE (IntelliJ IDEA, Eclipse, VS Code, etc.)
 
 By completing these assignments, you will:
 
-Understand different types of exceptions.
+    1. Understand different types of exceptions.
 
-Implement safe error handling in code.
+    2. Implement safe error handling in code.
 
-Learn to design custom exceptions.
+    3. Learn to design custom exceptions.
 
-Improve problem-solving skills for real-world applications.
+    4. Improve problem-solving skills for real-world applications.
 
 📖 References
 
-Oracle Java Documentation – Exceptions
+Oracle python – Exceptions
 
 LeetCode practice problems
